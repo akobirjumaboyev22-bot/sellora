@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+groq==0.4.2
+python-dotenv==1.0.0
+apscheduler==3.10.4
+psutil
+pytz==2024.1
