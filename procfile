@@ -1,0 +1,1 @@
+worker: pyhton main.py
